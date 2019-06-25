@@ -47,11 +47,13 @@
 
 
 
-<!---bootstrap-->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
+<!---semantic-ui-->
+<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+<script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+<script src="semantic/dist/semantic.min.js"></script>
 
 
 
@@ -368,16 +370,26 @@
           <div class="col-xs-12 col-md-4 section-heading">
             <h1>Projects</h1>
 
-            <div class="row no-gutters bg-light position-relative">
-                <div class="col-md-6 mb-md-0 p-md-4">
-                  <img src="./img/notelook.png" class="w-100" alt="...">
+
+            <div class="ui special cards">
+                <div class="card">
+                  <div class="blurring dimmable image">
+                    <div class="ui dimmer">
+                      <div class="content">
+                        <div class="center">
+                          <div class="ui inverted button"> もっとみる</div>
+                        </div>
+                      </div>
+                    </div>
+                    <img src="./img/notelook.png">
+                  </div>
+                  <div class="content">
+                    <a class="header">NOTELOOK</a>
+                    <div class="meta">
+                      <span class="date">アプリで各自のデバイスを操作することで、離れていても互いの紙のノート上にに直接書き込んで教えることを実現しました。</span>
+                    </div>
+                  </div>
                 </div>
-                <div class="col-md-6 position-static p-4 pl-md-0">
-                  <h3>  離れていても直接教えあえる「NOTELOOK」。</h3>
-                  <h5 class="mt-0">アプリで各自のデバイスを操作することで、離れていても互いの紙のノート上にに直接書き込んで教えることを実現しました。 同級生と二人で開発し、アイデア・デバイス開発・当日プレゼン,ポスター配布物作成など担当しました。</h5>
-                  <p></p>
-                </div>
-              </div>
 
 
 
