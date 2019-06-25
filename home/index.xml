@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on gojiteji</title>
+    <link>https://gojiteji.github.io/home/</link>
+    <description>Recent content in Homes on gojiteji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://gojiteji.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gojiteji.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://gojiteji.github.io/home/about/</guid>
+      <description>Biography My name is GOJITEJI. I study information &amp;amp; electronics at a certain NIT and an undergraduates. Aloso, my interest is those fields.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://gojiteji.github.io/home/events/</link>
+      <pubDate>Sun, 23 Sep 2018 19:55:45 +0900</pubDate>
+      
+      <guid>https://gojiteji.github.io/home/events/</guid>
+      <description>Programming Challenge in Singapore
+PC Koshien 2017 Mobile division Grand Prix
+PC Koshien 2016 Mobile division (through the preliminarie)
+the 27th Kosen Procon Competition division(through the preliminarie)
+Tobitate! Next Japan high school course for Canada
+the 1st docomo near-future student idea contest fighting-spirit prize</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://gojiteji.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://gojiteji.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gojiteji.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://gojiteji.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
