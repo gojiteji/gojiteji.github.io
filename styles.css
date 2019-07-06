@@ -22,7 +22,9 @@
   margin-left:10px;
 }
 
-
+.viewbt{
+  padding-bottom: 10px;
+}
 
 .row:after,
 .row:before {
