@@ -21,6 +21,9 @@
   margin-right:10px;
   margin-left:10px;
 }
+
+
+
 .row:after,
 .row:before {
   content: " ";
@@ -953,7 +956,7 @@ article .article-metadata {
 
 .card .card-text p {
   color: #999999;
-  font-size: 0.75rem;
+  font-size: 0.35rem;
 }
 
 .card p:last-child {
