@@ -17,7 +17,7 @@
 *::before {
   box-sizing: border-box;
 }
-.col-md-4{
+.cards{
   margin-right:10px;
   margin-left:10px;
 }
