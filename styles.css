@@ -27,6 +27,10 @@
   padding-bottom: 10px;
 }
 
+.viewbtn{
+  padding-bottom: 1em;
+}
+
 .row:after,
 .row:before {
   content: " ";
@@ -954,12 +958,12 @@ article .article-metadata {
 }
 
 .card .card-text {
-  padding: 0.75rem 1rem 0.75rem;
+  padding: 0rem;
 }
 
 .card .card-text p {
   color: #999999;
-  font-size: 1px;
+  font-size: 0.8em;
 }
 
 .card p:last-child {
