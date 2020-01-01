@@ -705,8 +705,12 @@
   <script>
     exp=false;
     function expand(){
-      exp!=exp;
       if(exp==false){
+        exp=true;
+      }else{
+        exp=false
+      }
+      if(exp==true){
       setTimeout('close()', 500);
       }
     }
