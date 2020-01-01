@@ -704,6 +704,9 @@
 
   <script>
     function expand(){
+      setTimeout('close()', 500)
+    }
+      function close(){
       element= document.getElementsByClassName( "navbar-collapse" ) 
       if(element[0].classList.contains( "in" )){
         element[0].classList.remove( "in" ) ;
